@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<style>
+table{
+	border: 1px solid black;
+}
+th{
+	padding:5px;	
+	border: 1px solid blue;
+	background-color:lightblue;
+}
+body{
+background-color:blue;
+color:white;
+}
+</style>
+
+<html>
+
+<h1 style="color:red"> PERGILA INCIK CORONO </h1>
+
+<p> hi world</p>
+
+<a href="https://www.instagram.com/"> Feel free to visit my page </a>
+
+<br>
+
+<img src="bunny.jpg" width="150"/>
+<p> This is my bunny </p>
+
+<table>
+<tr>
+<th>
+Nama
+</th>
+<th>
+Nama
+</th>
+</tr>
+
+<tr>
+<th>
+Nama
+</th>
+<td>
+Arep
+</td>
+</tr>
+</table>
+
+
+</html>
